@@ -58,7 +58,7 @@ Stay tuned!
 
 ## 📷 Visual Overview
 
-![Dynamic Programming Illustration](https://raw.githubusercontent.com/PyPartners/dpx/main/assets/dp_illustration.jpg)
+![Dynamic Programming Illustration](https://raw.githubusercontent.com/PyPartners/dpx/main/assets/dp_illustration.png)
 
 ---
 
