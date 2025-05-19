@@ -4,6 +4,26 @@ Welcome to **DPX**, your go-to repository for learning and practicing dynamic pr
 
 ---
 
+## 🤔 What is Dynamic Programming?
+
+Dynamic programming is a powerful algorithmic technique used to solve problems by breaking them down into simpler subproblems, solving each subproblem just once, and storing their solutions — usually using a table — to avoid redundant computations. It is especially useful for optimization problems and problems with overlapping subproblems and optimal substructure properties.
+
+You will learn when to apply DP, such as in problems involving sequences, subsets, and resource allocation, where naive recursive approaches would be too slow.
+
+---
+
+## 🎯 Learning Objectives
+
+By studying the examples and explanations in this repository, you will:
+
+- Understand the core concepts of dynamic programming, including memoization and tabulation.
+- Learn to identify problems that can be solved using DP.
+- Gain practical experience implementing classical DP algorithms like Fibonacci sequence and 0/1 Knapsack.
+- Analyze the time and space complexity improvements over naive recursive solutions.
+- Build a foundation to tackle more advanced DP problems confidently.
+
+---
+
 ## 📂 Repository Structure
 
 This repo currently contains the following folders:
@@ -40,6 +60,16 @@ or
 ```bash
 python problems/knapsack_01.py
 ```
+
+---
+
+## 📚 Additional Learning Resources
+
+To deepen your understanding of dynamic programming, you might find these resources helpful:
+
+* [Dynamic Programming on GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+* [TopCoder Tutorial: Dynamic Programming](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
+* [HackerRank Challenges: Dynamic Programming](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
 
 ---
 
