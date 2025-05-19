@@ -100,4 +100,5 @@ print(f"LCS Length (Tabulation) of '{s1}' and '{s2}': {length_tab}")
 lcs_string = get_lcs_string(s1, s2)
 print(f"One LCS string: \"{lcs_string}\"")
 # Expected Output: One LCS string: "GTAB"
+```
 [`longest_common_subsequence.py`](https://github.com/PyPartners/dpx/blob/main/problems/longest_common_subsequence.py).
