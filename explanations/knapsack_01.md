@@ -62,4 +62,4 @@ After filling the entire table, the cell `dp_table[num_items][knapsack_capacity]
 
 This bottom-up approach ensures that when we need to make a decision for `dp_table[i][w]`, the values from `dp_table[i-1][...]` (which represent solutions to smaller subproblems) have already been optimally computed.
 
-The Python code demonstrating this method can be found in a file like `knapsack_01_dp.py` (or whatever you named it!).
+The Python code demonstrating this method can be found in a file like [`knapsack_01.py`](https://github.com/PyPartners/dpx/blob/main/problems/knapsack_01.py).
