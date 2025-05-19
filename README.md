@@ -31,12 +31,16 @@ This repo currently contains the following folders:
 - **explanations/**  
   Markdown files that explain classic dynamic programming problems, including theory and approach.  
   - [`fibonacci.md`](https://github.com/PyPartners/dpx/blob/main/explanations/fibonacci.md) - Explanation of the Fibonacci sequence using DP.  
-  - [`knapsack_01.md`](https://github.com/PyPartners/dpx/blob/main/explanations/knapsack_01.md) - Explanation of the 0/1 Knapsack problem.
+  - [`knapsack_01.md`](https://github.com/PyPartners/dpx/blob/main/explanations/knapsack_01.md) - Explanation of the 0/1 Knapsack problem.  
+  - [`longest_common_subsequence.md`](https://github.com/PyPartners/dpx/blob/main/explanations/longest_common_subsequence.md) - Explanation of the Longest Common Subsequence problem.  
+  - [`longest_increasing_subsequence.md`](https://github.com/PyPartners/dpx/blob/main/explanations/longest_increasing_subsequence.md) - Explanation of the Longest Increasing Subsequence problem.
 
 - **problems/**  
   Python implementations of the corresponding problems described in the explanations folder.  
   - [`fibonacci.py`](https://github.com/PyPartners/dpx/blob/main/problems/fibonacci.py) - DP solution for the Fibonacci sequence.  
-  - [`knapsack_01.py`](https://github.com/PyPartners/dpx/blob/main/problems/knapsack_01.py) - DP solution for the 0/1 Knapsack problem.
+  - [`knapsack_01.py`](https://github.com/PyPartners/dpx/blob/main/problems/knapsack_01.py) - DP solution for the 0/1 Knapsack problem.  
+  - [`longest_common_subsequence.py`](https://github.com/PyPartners/dpx/blob/main/problems/longest_common_subsequence.py) - DP solution for Longest Common Subsequence.  
+  - [`longest_increasing_subsequence.py`](https://github.com/PyPartners/dpx/blob/main/problems/longest_increasing_subsequence.py) - DP solution for Longest Increasing Subsequence.
 
 ---
 
@@ -59,6 +63,18 @@ or
 
 ```bash
 python problems/knapsack_01.py
+```
+
+or
+
+```bash
+python problems/longest_common_subsequence.py
+```
+
+or
+
+```bash
+python problems/longest_increasing_subsequence.py
 ```
 
 ---
